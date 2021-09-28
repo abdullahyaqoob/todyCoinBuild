@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82dad400.chunk.css",
+    "main.js": "/static/js/main.367acdf5.chunk.js",
+    "main.js.map": "/static/js/main.367acdf5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d430a9b0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d430a9b0.js.map",
+    "static/js/2.7b996a84.chunk.js": "/static/js/2.7b996a84.chunk.js",
+    "static/js/2.7b996a84.chunk.js.map": "/static/js/2.7b996a84.chunk.js.map",
+    "static/js/3.e77b2d1a.chunk.js": "/static/js/3.e77b2d1a.chunk.js",
+    "static/js/3.e77b2d1a.chunk.js.map": "/static/js/3.e77b2d1a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.82dad400.chunk.css.map": "/static/css/main.82dad400.chunk.css.map",
+    "static/js/2.7b996a84.chunk.js.LICENSE.txt": "/static/js/2.7b996a84.chunk.js.LICENSE.txt",
+    "static/media/2.b6bc9e43.png": "/static/media/2.b6bc9e43.png",
+    "static/media/App.css": "/static/media/back-img.63b2b13d.png",
+    "static/media/bitcoin.9cc31042.png": "/static/media/bitcoin.9cc31042.png",
+    "static/media/buyBitcoin.73dd497e.mp4": "/static/media/buyBitcoin.73dd497e.mp4",
+    "static/media/f2.00554e87.webp": "/static/media/f2.00554e87.webp",
+    "static/media/m1.c1d88c8d.png": "/static/media/m1.c1d88c8d.png",
+    "static/media/p1.a3524783.png": "/static/media/p1.a3524783.png",
+    "static/media/p2.bb24d3bc.png": "/static/media/p2.bb24d3bc.png",
+    "static/media/p3.97f26cb9.png": "/static/media/p3.97f26cb9.png",
+    "static/media/simple.763baf6c.webp": "/static/media/simple.763baf6c.webp",
+    "static/media/t 2.f5a3148f.png": "/static/media/t 2.f5a3148f.png",
+    "static/media/track.4c445f46.svg": "/static/media/track.4c445f46.svg",
+    "static/media/trade.bf50daa0.gif": "/static/media/trade.bf50daa0.gif",
+    "static/media/whyChoose.6f17d92c.png": "/static/media/whyChoose.6f17d92c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d430a9b0.js",
+    "static/js/2.7b996a84.chunk.js",
+    "static/css/main.82dad400.chunk.css",
+    "static/js/main.367acdf5.chunk.js"
+  ]
+}
